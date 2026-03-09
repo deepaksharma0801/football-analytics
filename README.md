@@ -1,4 +1,4 @@
-# Elite Soccer Analytics — Recruitment & Tactical Intelligence
+# Elite Soccer Analytics | Recruitment & Tactical Intelligence
 
 A production-grade, end-to-end football analytics system built on StatsBomb Open Data. The stack delivers a full data engineering pipeline, event-level modeling, custom xG, role-aware player embeddings, similarity search, undervalued player ranking, explainability, and a Streamlit dashboard.
 
