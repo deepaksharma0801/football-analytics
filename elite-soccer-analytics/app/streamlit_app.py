@@ -10,7 +10,7 @@ from mplsoccer import Pitch
 import matplotlib.pyplot as plt
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
-
+ 
 
 st.set_page_config(page_title="Elite Soccer Analytics", layout="wide")
 
