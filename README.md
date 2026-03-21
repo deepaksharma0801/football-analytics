@@ -5,7 +5,7 @@ A production-grade, end-to-end football analytics system built on StatsBomb Open
 ## Project Overview
 This system is designed to resemble a professional analytics platform used by clubs or performance departments. It supports reproducible pipelines, modular modeling, and tactical visualizations.
 
-### Key Capabilities
+### Key Capabilities of the project 
 - Data engineering pipeline (download → normalize → validate)
 - Event-level modeling with custom xG
 - Role-aware player embeddings + similarity search
