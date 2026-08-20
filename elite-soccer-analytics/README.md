@@ -120,7 +120,7 @@ docker run -p 8501:8501 elite-soccer-analytics
 ```
 
 ## Skills Demonstrated
-- Data engineering and pipeline automation
+- Data engineering and pipeline-streamlining automation
 - Event-level ML modeling (custom xG)
 - Feature engineering and role clustering
 - Embeddings + similarity search
