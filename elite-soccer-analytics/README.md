@@ -108,7 +108,7 @@ python3 src/models/06_explainability.py --model models/xg_model.joblib --events 
 streamlit run app/streamlit_app.py
 ```
 
-## Testing
+## Testing and all
 ```bash
 pytest -q
 ```
