@@ -14,7 +14,7 @@ This system is designed to resemble a professional analytics platform used by cl
 - Streamlit dashboard with tactical visuals
 - Tests + CI + Dockerized deployment
 
-## Architecture
+## Architecture diagram
 ```
 raw data (StatsBomb Open Data)
         ↓
