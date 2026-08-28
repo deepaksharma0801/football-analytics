@@ -12,7 +12,7 @@ from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
  
 
-st.set_page_config(page_title="Elite Soccer Analytics", layout="wide")
+st.set_page_config(page_title="Elite Soccer Analytics- your one stop footy analysis destination", layout="wide")
 
 BASE_DIR = Path(__file__).resolve().parents[1]
 DATA_DIR = BASE_DIR / "data" / "processed"
