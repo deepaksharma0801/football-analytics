@@ -119,7 +119,7 @@ docker build -t elite-soccer-analytics .
 docker run -p 8501:8501 elite-soccer-analytics
 ```
 
-## Skills Demonstrated
+## Skills Demonstrated in this repo
 - Data engineering and pipeline-streamlining automation
 - Event-level ML modeling (custom xG)
 - Feature engineering and role clustering
